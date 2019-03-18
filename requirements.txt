@@ -1,0 +1,4 @@
+pyyaml==3.13
+nbconvert==5.4.1
+nbformat==4.4.0
+
