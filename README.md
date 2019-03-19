@@ -1,1 +1,1 @@
-# Lancaster -- dropping dashboards since 2019
+# Docker image: datascience-base
