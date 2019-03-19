@@ -1,9 +1,9 @@
-pyyaml==3.13
-nbconvert==5.4.1
-nbformat==4.4.0
-pandas==0.24.2
-plotly==3.7.0
-psycopg2-binary==2.7.7
-sqlalchemy==1.2.14
+pyyaml>=3.13
+nbconvert>=5.4.1
+nbformat>=4.4.0
+pandas>=0.24.2
+plotly>=3.7.0
+psycopg2-binary>=2.7.7
+sqlalchemy>=1.2.14
 
 
