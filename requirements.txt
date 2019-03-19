@@ -1,10 +1,4 @@
-pyyaml>=3.13
-jupyter_client>=5.2.4
-nbconvert>=5.4.1
-nbformat>=4.4.0
-pandas>=0.24.2
 plotly>=3.7.0
-psycopg2-binary>=2.7.7
 sqlalchemy>=1.2.14
 
 
